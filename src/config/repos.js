@@ -1,7 +1,7 @@
 const repos = [
   { id: 'xjh22222228/nav', name: 'nav - 发现导航' },
   { id: 'xjh22222228/gosh', name: 'GOSH' },
-  { id: 'xjh22222228/battle', name: 'Battle' },
+  { id: 'xjh22222228/boomb', name: 'Boomb' },
 ]
 
 export { repos }
